@@ -35,17 +35,7 @@ Branch Campuses
 - WPA2‑Enterprise for staff Wi‑Fi
 - WPA2‑PSK for guest VLAN
 - Physical security: locked closets, badge access, secured server room
-
-🧩 VLAN & IP Segmentation
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-|  |  |  | 
-
+<img width="686" height="351" alt="image" src="https://github.com/user-attachments/assets/ad6aac87-38ad-40e7-a2db-d28f0d9ad8b2" />
 
 Each VLAN uses a /24 subnet for simplicity, scalability, and troubleshooting.
 
